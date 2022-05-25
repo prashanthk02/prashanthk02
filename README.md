@@ -9,5 +9,5 @@ Recently graduated from Lighthouse labs and currently looking for junior roles.
 * React, Express, jQuery, Rails
 * PostgreSQL, MySQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthk02&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthk02&layout=compact&theme=cobalt)
 
