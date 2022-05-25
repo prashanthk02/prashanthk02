@@ -1,4 +1,4 @@
-### Hello, I'm Prashanth Kommidi 👋🏼
+## Hello, I'm Prashanth 👋🏼
 
 I'm a full stack web developer with a previous background in commerce and supply chain.
 With intrest in technology and passion towards web development i learned to code.
