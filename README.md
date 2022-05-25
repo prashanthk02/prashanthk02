@@ -2,9 +2,9 @@
 
 I'm a full stack web developer with a previous background in commerce and supply chain.
 With intrest in technology and passion towards web development i learned to code.
-I recently graduated from Lighthouse labs and Currently looking for junior roles.
+Recently graduated from Lighthouse labs and currently looking for junior roles.
 
-#### Skills
+### Skills
 * JavaScript, HTML, CSS, Ruby
 * React, Express, jQuery, Rails
 * PostgreSQL, MySQL
