@@ -1,7 +1,7 @@
 ## Hello, I'm Prashanth 👋🏼
 
-I'm a full stack web developer with a previous background in commerce and supply chain.
-With interest in technology and passion towards web development i learned to code.
+I'm a full stack web developer with a background in commerce and supply chain,
+with interest in technology and passion towards web development I learned to code.
 Recently graduated from Lighthouse labs and currently looking for junior web developer roles.
 
 ### Skills
