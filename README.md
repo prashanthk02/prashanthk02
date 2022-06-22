@@ -25,4 +25,4 @@ Recently graduated from Lighthouse labs and actively seeking web developer roles
 
 
 
-  ![](https://komarev.com/ghpvc/?username=prashanthk02&color=red)
+  ![](https://komarev.com/ghpvc/?username=prashanthk02&color=red&label=Views)
