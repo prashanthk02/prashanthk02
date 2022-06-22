@@ -18,7 +18,11 @@ Recently graduated from Lighthouse labs and actively seeking web developer roles
 
 ### Individual Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanthk02&repo=scheduler)](https://github.com/prashanthk02/scheduler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanthk02&repo=tinyapp)](https://github.com/prashanthk02/tinyapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanthk02&repo=profile_generator)](https://github.com/prashanthk02/profile_generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanthk02&repo=scheduler)](https://github.com/prashanthk02/scheduler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prashanthk02&repo=tweeter)](https://github.com/prashanthk02/tweeter)
+
+
+
+  ![](https://komarev.com/ghpvc/?username=prashanthk02&color=red)
